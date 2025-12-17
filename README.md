@@ -3,10 +3,10 @@ Laboratorios de Seguridad para .NET: Guía práctica para mitigar vulnerabilidad
 
 ## Estructura del Repositorio
 /
-├── docs/               # 🛠️Soon
-├── infrastructure/     # 🛠️Soon
-├── labs/               # Prácticas
-├── solutions/          # Código propuesto
+├── docs/               # 🛠️Soon\
+├── infrastructure/     # 🛠️Soon\
+├── labs/               # Prácticas\
+├── solutions/          # Código propuesto\
 └── README.md         
 
 ## Configuración del Entorno
@@ -23,9 +23,9 @@ cd Secure-Developer-.NET-Inc-OWASP-
 ```
 
 ### Ruta de aprendizaje 
-*01* Web Threats
-*02* Secure Design
-*03* OWASP Top 10
+*01* Web Threats\
+*02* Secure Design\
+*03* OWASP Top 10\
 
 ### Comandos Útiles
 🛠️soon
