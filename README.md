@@ -10,10 +10,10 @@ Laboratorios de Seguridad para .NET: Guía práctica para mitigar vulnerabilidad
 └── README.md         
 
 ## Configuración del Entorno
-Requisitos Previos
-SDK de .NET 8.0 o superior.
-Git Bash. 
-VS Code (Recomendado) con las extensiones: C# Dev Kit y Docker.
+Requisitos Previos:
+- SDK de .NET 8.0 o superior.
+- Git Bash.
+- VS Code (Recomendado) con las extensiones: C# Dev Kit y Docker.
 
 ### Instalación rápida
 1. Clonar el repositorio
